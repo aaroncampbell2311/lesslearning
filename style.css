@@ -1,0 +1,37 @@
+/*//variables*/
+/*mixins*/
+/*pascel case*/
+.YellowBorder {
+  border-color: #fff000;
+}
+.BigBorder {
+  border-width: 10px;
+}
+.SolidBorder {
+  border-style: solid;
+}
+.DashedBorder {
+  border-style: dashed;
+}
+#button1 {
+  border-color: #fff000;
+  border-style: dashed;
+  background-color: #9B30FF;
+}
+#button2 {
+  border-color: #fff000;
+  border-style: solid;
+  background-color: #790edd;
+}
+#button3 {
+  border-color: #fff000;
+  border-style: solid;
+  background-color: #bd52ff;
+}
+.big-button {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  background: #9B30FF;
+  margin: 30px;
+}
